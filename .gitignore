@@ -1,0 +1,8 @@
+# Ignore generated dependencies, build output, local configuration, and logs.
+node_modules/
+build/
+target/
+.env
+application-local.properties
+.idea/
+*.log
