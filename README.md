@@ -17,8 +17,8 @@ The platform combines a responsive, feature-rich **React 18** client with an ent
 
 ## 🌐 Live Deployments
 
-- **Frontend Application (Vercel):** [https://hrdashboard-rahul.vercel.app](https://vercel.com) *(Configure your Vercel deployment)*
-- **Backend REST API (Render):** [https://hrdashboard-backend.onrender.com/api](https://render.com) *(Configure your Render deployment)*
+- **Frontend Application (Vercel):** [https://h-rdashboard-three.vercel.app](https://h-rdashboard-three.vercel.app)
+- **Backend REST API (Render):** [https://hrdashboard-vjkj.onrender.com/api](https://hrdashboard-vjkj.onrender.com/api)
 - **Local API Base:** `http://localhost:8080/api`
 
 ---
