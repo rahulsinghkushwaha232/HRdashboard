@@ -22,7 +22,6 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class EmployeeController {
 
     private final EmployeeService employeeService;
